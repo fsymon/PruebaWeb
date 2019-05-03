@@ -1,0 +1,70 @@
+body {
+  font-family: 'Open Sans, Oswald', sans-serif;
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+nav {
+  background: #660066;
+}
+
+#main {
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding: 25rem;
+  padding-bottom: 5px;
+}
+
+.blanca{
+  height: 0.1rem;
+  background-color: white;
+}
+
+hr {
+  height: 0.1rem;
+  background-color: black;
+}
+
+.fas, .fas {
+  color: #660066;
+}
+
+.fotos {
+  background-color: #660066;
+}
+
+h5 {
+  font family: 'Oswald', sans-serif;
+  font-weight: 400;
+}
+
+p {
+  font family: 'Opens Sans', sans-serif;
+  font-weight: lighter;
+  padding: 1rem 0rem;
+}
+
+.nombre {
+  padding-left: 15%;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+}
+
+.iconos {
+    padding-right: 15%;
+}
+
+i {
+padding: 1rem;
+}
+
+footer {
+  background-color: #660066;
+  padding: 2rem;
+}
